@@ -1,0 +1,13 @@
+.{
+    .name = "learning",
+    .version = "0.0.0",
+    .dependencies = .{
+        .tinyshader = .{
+            .url = "https://github.com/felipeagc/tinyshader/archive/9ae098a.tar.gz",
+            .hash = "12209a250513ce696da329524200165eb1056f091c5a4344b89b817475c7967c4923",
+        },
+    },
+    .paths = .{
+        "",
+    },
+}
